@@ -76,3 +76,5 @@ jobs:
           publish_branch: gh-pages
           publish_dir: ./dist  # Updated to Vite default output directory
           github_token: ${{ secrets.GITHUB_TOKEN }}
+          user_name: 'annahuangg'
+          user_email: 'annahuang5668@gmail.com'
